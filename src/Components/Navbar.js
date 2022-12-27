@@ -30,7 +30,6 @@ const Navbar = () => {
                   </a></li>
               })
             }
-            <li><Button><a href='https://drive.google.com/file/d/1WvBC3NdCGurHf0WD_AVl1wK5V5dutngX/view?usp=share_link' target='_blank'>Resume</a></Button></li>
           </ul>
         </div>
       </div> 
