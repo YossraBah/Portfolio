@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/YossraBah/Portfolio/static/css/main.dcf37954.css",
+    "main.js": "/YossraBah/Portfolio/static/js/main.8b3000a5.js",
+    "static/js/787.1ed0c42c.chunk.js": "/YossraBah/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/portfolioHome.png": "/YossraBah/Portfolio/static/media/portfolioHome.4942e791d52335283426.png",
+    "static/media/contact.PNG": "/YossraBah/Portfolio/static/media/contact.e4f68b9cc02348ff7f32.PNG",
+    "static/media/aboutme.jpg": "/YossraBah/Portfolio/static/media/aboutme.46e2e5a37fa54467d404.jpg",
+    "static/media/techinventors.PNG": "/YossraBah/Portfolio/static/media/techinventors.79bf9e351560b4b969a7.PNG",
+    "static/media/final_logo.png": "/YossraBah/Portfolio/static/media/final_logo.53907ff14b32577a43a3.png",
+    "static/media/sastec.PNG": "/YossraBah/Portfolio/static/media/sastec.9d93ccfa6ac7a98d62a6.PNG",
+    "index.html": "/YossraBah/Portfolio/index.html",
+    "main.dcf37954.css.map": "/YossraBah/Portfolio/static/css/main.dcf37954.css.map",
+    "main.8b3000a5.js.map": "/YossraBah/Portfolio/static/js/main.8b3000a5.js.map",
+    "787.1ed0c42c.chunk.js.map": "/YossraBah/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcf37954.css",
+    "static/js/main.8b3000a5.js"
+  ]
+}
