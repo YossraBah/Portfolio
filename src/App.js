@@ -2,14 +2,13 @@ import Layout from './Layout';
 import { Route, Routes, BrowserRouter } from 'react-router-dom';
 import './App.css'
 import Button from './Components/Button';
-import Navbar from './Components/Navbar';
 
 function App() {
   return (
     <div className="w-full h-screen bg-darkColor font-sans">
         <BrowserRouter> 
           <Routes>
-            <Route path="/" element={<Layout/>} />
+            <Route path="/Portfolio" element={<Layout/>} />
           </Routes>
         </BrowserRouter>
         <div  className='fixed bottom-7 right-5'>
